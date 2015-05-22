@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Daydream Sample</string>
+    <string name="dreamservice_class_name">com.android.systemui.Somnambulator</string>
+    <string name="dreamservice_package_context">com.android.systemui</string>
+    <string name="setting_header">TIME FORMATS</string>
+    <string name="setting_24hour">24-hour</string>
+    <string name="setting_12hour">12-hour</string>
+    <string name="format_12hour">h:mmaa</string>
+    <string name="format_24hour">k:mm</string>
+    <string name="pst_time_zone">"America/Los_Angeles"</string>
+</resources>

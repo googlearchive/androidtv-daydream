@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="clock_text_size">133sp</dimen>
+    <dimen name="clock_format_size">15sp</dimen>
+</resources>
