@@ -26,8 +26,7 @@ public class DreamActivity extends Activity {
         super.onStart();
 
         final Intent intent = new Intent(Intent.ACTION_MAIN);
-        // Do not rely on this API; it is unofficial and not guaranteed
-        // to do anything.
+        // This API is unofficial, and its behavior may change in future.
         intent.setClassName(getString(R.string.dreamservice_package_context),
                             getString(R.string.dreamservice_class_name));
         startActivity(intent);
